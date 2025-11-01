@@ -1,13 +1,14 @@
 # Nelly Advocacia - Website
 
- <img src="./img/readme1.png" alt="imagem do projeto">
- <img src="./img/readme2.png" alt="imagem do projeto">
-
 ## 📋 Sobre o Projeto
 
 Website profissional para o escritório **Nelly Advocacia**, desenvolvido com foco em apresentar os serviços jurídicos oferecidos, criar confiança com potenciais clientes e facilitar o contato através de múltiplos canais.
 
 O site apresenta uma interface moderna, responsiva e otimizada para conversão, destacando as áreas de atuação, depoimentos de clientes e informações de contato.
+
+ <img src="./img/readme1.png" alt="imagem do projeto">
+ <img src="./img/readme2.png" alt="imagem do projeto">
+
 
 ## ✨ Características
 
