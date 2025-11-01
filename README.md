@@ -51,11 +51,10 @@ nelly-advocacia/
 │   ├── advogada.png
 │   ├── Carlos-Silva.png
 │   ├── Ana-Paula-Costa.png
-│   └── Roberto-Mendes.png
-│
-└── src/                # Imagens da documentação
-    ├── readme1.png
-    └── readme2.png
+│   ├── Roberto-Mendes.png
+│   ├── readme1.png
+└── └── readme2.png
+
 ```
 
 ## 📱 Seções do Site
@@ -102,7 +101,6 @@ nelly-advocacia/
 - Mapa integrado do Google Maps
 - Copyright
 
-![Preview Desktop](./src/readme2.png)
 
 ## 🔧 Como Usar
 
@@ -175,14 +173,32 @@ O site é totalmente responsivo com breakpoints em:
 - **Tablet**: 601px a 900px
 - **Desktop**: acima de 900px
 
-## 📄 Licença
+## 👩‍💻 Autora
 
-Este projeto foi desenvolvido para uso do escritório Nelly Advocacia.
+**Danielly Pedrini**
 
-## 👨‍💻 Suporte
+- GitHub: [Danielly Pedrini](https://github.com/danielly-pedrini)
+- LinkedIn: [[Danielly Pedrini](https://www.linkedin.com/in/daniellypedrini/)]
+---
 
-Para dúvidas ou suporte técnico, entre em contato através do formulário no site ou pelo WhatsApp.
+## ⭐ Mostre seu apoio
+
+Se este projeto te ajudou ou você gostou do trabalho, considere dar uma ⭐️ no repositório!
 
 ---
 
-**© 2025 Nelly Advocacia. Todos os direitos reservados.**
+<div align="center">
+  
+**Desenvolvido por [Danielly Pedrini](https://github.com/danielly-pedrini)**
+<br>
+
+⭐ Se este projeto foi útil, considere dar uma estrela no GitHub!
+
+</div>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsivo-Sim-blue?style=for-the-badge)
+
+</div>
