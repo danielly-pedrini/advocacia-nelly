@@ -1,5 +1,4 @@
-
-     // Menu hamburguer toggle
+   // Menu hamburguer toggle
     const menuToggle = document.getElementById('menuToggle');
     const nav = document.querySelector('.nav');
     
